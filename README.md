@@ -1,4 +1,4 @@
-  #ISSUE #21 FIX
+  # ISSUE #21 FIX
 After running `npm install`, run `npm install discord.js-selfbot-v13@latest`.
   
   # Poketwo-AUTOCATCHER
